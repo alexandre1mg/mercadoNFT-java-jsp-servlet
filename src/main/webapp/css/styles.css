@@ -1,0 +1,108 @@
+body{
+    font-family: sans-serif;
+    align-items: center;
+}
+
+h4{
+	color: black;
+}
+
+
+.row{
+	padding: 0;
+    margin: 0;
+}
+#btt01{
+	text-align:center;
+	background-color: blue;
+	margin-top: 10px;
+	border-radius: 3%;
+}
+.container{
+
+	background-color: rgb(255, 255, 255);
+    text-align: center;
+    width: 110em;
+    padding-top: 5px;
+    display: grid;
+    align-content: center;
+    grid-template-columns: repeat(3, auto);
+    margin: auto auto 10px auto;
+ 
+}
+
+/* Barra de Navegação */
+
+header,
+.navbar {
+    background-color: rgb(0, 0, 65);
+
+}
+.mitens{
+	padding: 0;
+	margin:0;
+	align-items: center; 
+	
+}
+
+
+#nav-container {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#logo {
+    width: 50px;
+}
+
+.navbar-brand {
+    padding: 0;
+    color: rgb(255, 255, 255);
+
+}
+
+.navbar-brand:hover {
+    color: rgb(255, 255, 255);
+
+}
+
+#navbar-links a {
+    color: rgb(255, 255, 255);
+
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 1rem .8rem;
+
+}
+
+.container-fluid {
+    padding: 0;
+    align-items: center; 
+}
+
+#mainS .carousel-inner, #mainS .carousel-item{
+    height: 60vh;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.dropdown{
+	margin-right: 2%;
+}
+p{
+    font-size:x-large;
+    font-style: italic;
+    color: aliceblue;
+}
+
+
+.link {
+    color: rgb(80, 26, 230);
+    text-decoration: none;
+}
+#topLink{
+    text-decoration: none;
+}
